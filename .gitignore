@@ -1,0 +1,20 @@
+# ignore trainiing set
+*.csv
+
+
+# ignore jupyter notebooks
+.federated_lasso.ipynb
+
+*.pdf
+
+#  Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# pycache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.*
+!/.gitignore
